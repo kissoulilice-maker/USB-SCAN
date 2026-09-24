@@ -24,6 +24,8 @@ L'activité du dépôt consiste à rechercher, organiser et présenter des infor
 
 Le Wiki permet de détailler les différentes notions et de compléter les informations présentées dans le README.
 
+👉 [Accéder au Wiki USB-SCAN](https://github.com/kissoulilice-maker/USB-SCAN/wiki)
+
 ## Sources
 
 Les informations techniques sont notamment vérifiées à partir de la documentation officielle de l'USB Implementers Forum (USB-IF).
